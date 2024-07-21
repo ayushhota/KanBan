@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "kanban-87e8b",
+    "staging": "kanban-87e8b"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
